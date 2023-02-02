@@ -24,4 +24,4 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Screenshot
-![Challenge5] (./assets/images/final_outcome.png)
+![Challenge5](./assets/images/final_outcome.png)
